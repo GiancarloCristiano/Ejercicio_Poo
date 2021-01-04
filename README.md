@@ -31,3 +31,7 @@ En Empresa, tengo que poder:
 #### Otras observaciones:
 - Para evitar problemas de codifación, se evitó en ciertos casos el uso de caracteres especiales como la Ñ o tildes.
 - Por razones de seguridad, sólo se emplearon los métodos necesarios para cumplir con el enunciado. Por lo que se omitieron varios getter y setter, etc.
+
+#### Opcionales:
+- Se adjunta un diagrama de clases a partir del código presentado.
+- Se creó además (sólo a modo de ejemplo) un esquema de BBDD en Vertabelo. Presentando el gráfico y las sentencias SQL para crear dicha Base de Datos ilustrativa.
