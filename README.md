@@ -12,7 +12,7 @@ En Empresa, tengo que poder:
 -	Obtener un listado de todos los Empleados
 -	Buscar por Id y obtener un Empleado
 -	Obtener el promedio de edad de los empleados
-
+---
 - Nota: Demostrar conocimientos en el manejo de objetos. No es necesario realizar el ejercicio en un framework, solo las clases necesarias en conjunto con un ejemplo de instanciacíon. Una archivo por clase.
 - Opcional: Esquema de Base de datos, Diagrama de clases.
 
@@ -28,3 +28,6 @@ En Empresa, tengo que poder:
 ```
     return this.empleados;
 ```
+#### Otras observaciones:
+- Para evitar problemas de codifación, se evitó en ciertos casos el uso de caracteres especiales como la Ñ o tildes.
+- Por razones de seguridad, sólo se emplearon los métodos necesarios para cumplir con el enunciado. Por lo que se omitieron varios getter y setter, etc.

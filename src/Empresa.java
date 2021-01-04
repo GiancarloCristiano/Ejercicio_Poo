@@ -18,7 +18,7 @@ public class Empresa {
 
     public ArrayList<Empleado> getEmpleados() {
         return new ArrayList<Empleado>(empleados);
-        //Retorno una copia por seguridad. Si quiero retornar la lista original es simplemente 'return this.empleados'.
+        //Retorno una copia por seguridad. Si quiero retornar la original es 'return this.empleados;'.
     }
 
     public Empleado buscarEmpleadoId(int id){
