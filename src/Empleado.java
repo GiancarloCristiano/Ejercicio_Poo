@@ -1,4 +1,4 @@
-public class Empleado extends Empresa {
+public class Empleado {
     protected int id;
     protected String nombre;
     protected String apellido;
